@@ -1,7 +1,8 @@
 # Daily-Coding-Challenge
 
 ## DAY 1
-PROBLEM : Cyclically rotate an array by one
+PROBLEM : Cyclically rotate an array by one.
+
 Given an array, rotate the array by one position in clock-wise direction.
  
 Example 1:
@@ -27,7 +28,8 @@ Constraints:
 
 
 ## DAY 2
-PROBLEM : First and last occurrences of x
+PROBLEM : First and last occurrences of x.
+
 Given a sorted array arr containing n elements with possibly duplicate elements, the task is to find indexes of first and last occurrences of an element x in the given array.
 
 Example 1:
@@ -52,7 +54,8 @@ Constraints:
 
 
 ## DAY 3
-PROBLEM : Maximize sum(arr[i]*i) of an Array
+PROBLEM : Maximize sum(arr[i]*i) of an Array.
+
 Given an array A of N integers. Your task is to write a program to find the maximum value of ∑arr[i]*i, where i = 0, 1, 2,., n 1.
 You are allowed to rearrange the elements of the array.
 Note: Since output could be large, hence module 10^9+7 and then print answer.
@@ -80,7 +83,8 @@ Constraints:
 
 
 ## DAY 4
-PROBLEM : Implement stack using array
+PROBLEM : Implement stack using array.
+
 Write a program to implement a Stack using Array. Your task is to use the class as shown in the comments in the code editor and complete the functions push() and pop() to implement a stack. 
 
 Example 1:
